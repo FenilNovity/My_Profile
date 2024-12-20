@@ -35,7 +35,7 @@ With **2.5 years of experience** in **Android development**, I specialize in bui
 ---
 
 ## 📧 **Connect with Me**
-- 📧 Email: [fenilharsoda@example.com](mailto:fenilharsoda@example.com)  
+- 📧 Email: [fenilharsoda@example.com](mailto:fenil.novitytech@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/fenilharsoda](https://linkedin.com/in/fenilharsoda)  
 - 🌐 Portfolio: [fenilharsoda.dev](https://fenilharsoda.dev) *(Coming soon!)*  
 
